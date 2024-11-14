@@ -9,7 +9,7 @@ Upcoming!
 
 ## Description
 
-This project is an added update on the wordle acquied by New work times
+This project is an added update on the wordle game, acquied by New work times, buit on a console
 
 ## Features
 
